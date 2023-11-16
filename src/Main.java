@@ -84,7 +84,7 @@ public class Main {
         var totalPeople = totalPersonWorks + worksMore;
         var hoursCompany = totalHours / totalPeople ;
         System.out.println("Если в компании работает " + totalPeople + " человека,то всего " + hoursCompany +" часа работы может быть поделено между сотрудниками" );
-
+        System.out.println("Дз сделанно");
 
     }
 }
